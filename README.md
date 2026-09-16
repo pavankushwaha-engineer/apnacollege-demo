@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first repository
 <br>
-author - pavan kushwaha
+author - pavan kushwaha (its a pavan)
